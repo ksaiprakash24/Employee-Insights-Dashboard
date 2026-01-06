@@ -143,4 +143,4 @@ Workforce Planning:** Identify departments with high growth or attrition risk
 
 ### 📊 Dashboard Preview
 
-*([Dashboard Preview] (https://github.com/ksaiprakash24/Employee-Insights-Dashboard/blob/main/Employee%20Insights%20Dashboard.png))*
+*([Dashboard Preview](https://github.com/ksaiprakash24/Employee-Insights-Dashboard/blob/main/Employee%20Insights%20Dashboard.png))*
