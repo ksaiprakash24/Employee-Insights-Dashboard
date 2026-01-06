@@ -108,7 +108,9 @@ This allows department-level comparison and cost analysis.
 
 Supports workforce planning and budget forecasting.
 
-### • Business Impact & Insights
+---
+
+### 7. Business Impact & Insights
 
 Workforce Planning:** Identify departments with high growth or attrition risk
 * **Cost Optimization:** Monitor salary and leave costs by department
