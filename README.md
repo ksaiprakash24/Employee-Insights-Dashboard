@@ -56,8 +56,6 @@ Organizations often struggle to gain a **single, consolidated view of workforce 
 
 …are difficult to answer using raw HR data alone.
 
----
-
 #### • Goal of the Dashboard
 
 The primary goal of this dashboard is to:
@@ -69,7 +67,7 @@ The primary goal of this dashboard is to:
 
 ---
 
-#### • Walkthrough of Key Visuals
+#### 6. Walkthrough of Key Visuals
 
 **Key Workforce KPIs (Top Section)**
 
@@ -78,8 +76,6 @@ The primary goal of this dashboard is to:
 * Active Employees Count
 
 These KPIs provide an instant snapshot of workforce size and cost.
-
----
 
 **Employee Breakdown (Donut Charts)**
 
@@ -91,14 +87,10 @@ These KPIs provide an instant snapshot of workforce size and cost.
 
 These visuals help HR teams understand workforce diversity and structure.
 
----
-
 **Hiring Growth Over Time (Line Chart)**
 
 * Displays employee hiring trends across multiple years
 * Helps identify growth phases, hiring spikes, or slowdowns
-
----
 
 **Key Employee Indicators by Cost Center (Table Visual)**
 
@@ -109,16 +101,12 @@ These visuals help HR teams understand workforce diversity and structure.
 
 This allows department-level comparison and cost analysis.
 
----
-
 **Sick Leave & Salary Cost Trends (Time-Series Charts)**
 
 * Evaluation of sick day balances over time
 * Estimated total salary costs trend analysis
 
 Supports workforce planning and budget forecasting.
-
----
 
 ### • Business Impact & Insights
 
@@ -127,8 +115,6 @@ Workforce Planning:** Identify departments with high growth or attrition risk
 * **HR Strategy:** Improve hiring and retention strategies using data-backed insights
 * **Leadership Reporting:** Provide executives with a real-time workforce overview
 * **Operational Efficiency:** Reduce manual HR reporting through automated dashboards
-
----
 
 ### 📌 Key Skills Demonstrated
 
@@ -143,4 +129,4 @@ Workforce Planning:** Identify departments with high growth or attrition risk
 
 ### 📊 Dashboard Preview
 
-*!([Dashboard Preview](https://github.com/ksaiprakash24/Employee-Insights-Dashboard/blob/main/Employee%20Insights%20Dashboard.png))*
+*([Dashboard Preview](https://github.com/ksaiprakash24/Employee-Insights-Dashboard/blob/main/Employee%20Insights%20Dashboard.png))*
