@@ -117,16 +117,7 @@ Workforce Planning:** Identify departments with high growth or attrition risk
 * **HR Strategy:** Improve hiring and retention strategies using data-backed insights
 * **Leadership Reporting:** Provide executives with a real-time workforce overview
 * **Operational Efficiency:** Reduce manual HR reporting through automated dashboards
-
-### 📌 Key Skills Demonstrated
-
-* Power BI Dashboard Design
-* Power Query (ETL & Data Transformation)
-* DAX Measures & KPIs
-* HR & Workforce Analytics
-* Data Modeling & Performance Optimization
-* Business Insight & Stakeholder Reporting
-
+  
 ---
 
 ### 📊 Dashboard Preview
