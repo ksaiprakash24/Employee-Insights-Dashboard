@@ -1,16 +1,17 @@
 # Employee-Insights-Dashboard
+
 ## 👥 Employee Insights – Workforce Analytics Dashboard (Power BI)
 
 ### 1. Project Title / Headline
 
-**👥 Employee Insights: Workforce Analytics & HR Performance Dashboard**
-An interactive Power BI dashboard designed to analyze workforce composition, hiring trends, compensation metrics, and HR KPIs—helping organizations make data-driven people management decisions.
+📊 Employee Insights Analytics: Workforce Trends & HR Performance Dashboard
+An interactive Power BI dashboard designed to analyze employee distribution, hiring trends, salary insights, and workforce performance—enabling data-driven HR decision-making.
 
 ---
 
 ### 2. Short Description / Purpose
 
-The **Employee Insights Dashboard** is an end-to-end Power BI analytics solution that provides a comprehensive view of employee demographics, hiring growth, salary distribution, tenure, and leave patterns. It enables HR teams and business leaders to monitor workforce health, optimize hiring strategies, and control salary and leave costs through actionable insights.
+The Employee Insights Dashboard is a comprehensive HR analytics solution that provides visibility into workforce composition, hiring growth, salary distribution, and employee performance metrics. It helps organizations understand employee trends, optimize workforce planning, and improve HR strategies.
 
 ---
 
@@ -18,106 +19,108 @@ The **Employee Insights Dashboard** is an end-to-end Power BI analytics solution
 
 The dashboard was built using the following tools and technologies:
 
-* 📊 **Power BI Desktop** – Primary tool for building interactive dashboards and reports
-* 📂 **Power Query** – Data extraction, cleaning, transformation, and shaping (ETL)
-* 🧠 **DAX (Data Analysis Expressions)** – Creation of KPIs, calculated measures, and dynamic insights
-* 🧩 **Data Modeling** – Relationships across employee, salary, department, and time-based tables
-* 📁 **File Format** – `.pbix` for development and `.png` for dashboard preview
+* 📊 **Power BI Desktop** – Interactive dashboard creation and reporting
+* 📂 **Power Query** – Data cleaning, transformation, and preparation
+* 🧠 **DAX (Data Analysis Expressions)** – KPIs, calculated columns, and measures
+* 🧩 **Data Modeling** – Relationships between employee, department, and salary data
+* 📁 **File Format** – `.pbix` and `.png` for dashboard preview
 
 ---
 
 ### 4. Data Source
 
-**Source:** Sample HR / Employee dataset (structured for analytical use)
+Source: Sample HR Dataset (Employee-level data)
 
-The dataset includes employee-level information such as:
+The dataset includes:
 
-* Employment type (Full-time, Part-time, Contract)
-* Age group and tenure
-* Pay type and salary details
-* Gender and ethnic group classification
-* Department / cost center mapping
-* Hiring dates, leave balances, and salary costs over time
-
-The data is modeled to support **time-series analysis, departmental comparisons, and KPI tracking**.
+• Employee demographics (age, gender, ethnicity)
+• Employment type (full-time, part-time, contract)
+• Salary and pay type (hourly/salary)
+• Department and cost center data
+• Hiring trends and leave balances
 
 ---
 
-### 5. Features / Highlights
+#### 5. Features / Highlights
 
-#### • Business Problem
+• Business Problem
 
-Organizations often struggle to gain a **single, consolidated view of workforce metrics** across departments. Key HR questions such as:
+Organizations often lack a centralized system to analyze workforce data effectively. Key questions like:
 
-* How is hiring growing over time?
-* Which departments have higher salary or leave costs?
-* What is the workforce mix by employment type, age, and gender?
-* How do tenure and salary vary across cost centers?
+Which departments have higher salary costs?
+What is the workforce distribution across demographics?
+How is hiring trending over time?
+Where are inefficiencies in employee management?
 
-…are difficult to answer using raw HR data alone.
+are difficult to answer without proper analytics tools.
 
-#### • Goal of the Dashboard
+• Goal of the Dashboard
 
-The primary goal of this dashboard is to:
+The dashboard aims to:
 
-* Provide **clear visibility into workforce structure and trends**
-* Support **data-driven HR and management decisions**
-* Enable tracking of **hiring growth, salary costs, and employee distribution**
-* Identify workforce patterns that impact cost, productivity, and planning
+• Provide visibility into workforce composition
+• Track hiring trends and employee growth
+• Analyze salary distribution across departments
+• Enable data-driven HR decision-making
 
 ---
 
-#### 6. Walkthrough of Key Visuals
+### 6. Walkthrough of Key Visuals
 
-**Key Workforce KPIs (Top Section)**
+## Key Performance KPIs (Top Section)
 
-* Total Hired Employees
-* Average Salary
-* Active Employees Count
+• Total Hired Employees
+• Average Salary
+• Total Employees
 
-These KPIs provide an instant snapshot of workforce size and cost.
+Provides a snapshot of workforce scale and compensation.
 
-**Employee Breakdown (Donut Charts)**
+---
 
-* **Employment Type:** Full-time, Part-time, Contract
-* **Age Group:** Workforce age distribution
-* **Pay Type:** Salary vs Hourly employees
-* **Gender Distribution**
-* **Ethnic Group Composition**
+## Workforce Distribution (Donut Charts)
 
-These visuals help HR teams understand workforce diversity and structure.
+• Employment Type
+• Age Group
+• Pay Type
+• Gender
+• Ethnic Group
 
-**Hiring Growth Over Time (Line Chart)**
+Helps understand workforce diversity and structure.
 
-* Displays employee hiring trends across multiple years
-* Helps identify growth phases, hiring spikes, or slowdowns
+---
 
-**Key Employee Indicators by Cost Center (Table Visual)**
+## Hiring Growth Trend (Line Chart)
 
-* Number of employees
-* Average salary
-* Average tenure (years)
-* Total leave balances
+• Tracks employee hiring over time
+• Identifies growth patterns and hiring spikes
 
-This allows department-level comparison and cost analysis.
+---
 
-**Sick Leave & Salary Cost Trends (Time-Series Charts)**
+## Department Insights (Table Visual)
 
-* Evaluation of sick day balances over time
-* Estimated total salary costs trend analysis
+• Average Salary by Department
+• Average Tenure
+• Leave Balances
 
-Supports workforce planning and budget forecasting.
+Helps compare departmental performance.
+
+---
+
+## Salary Cost & Sick Leave Analysis
+
+• Estimated salary cost trends
+• Sick leave usage patterns
 
 ---
 
 ### 7. Business Impact & Insights
 
-Workforce Planning:** Identify departments with high growth or attrition risk
-* **Cost Optimization:** Monitor salary and leave costs by department
-* **HR Strategy:** Improve hiring and retention strategies using data-backed insights
-* **Leadership Reporting:** Provide executives with a real-time workforce overview
-* **Operational Efficiency:** Reduce manual HR reporting through automated dashboards
-  
+• **Workforce Visibility:** Clear understanding of employee distribution
+• **HR Optimization:** Identify trends for better workforce planning
+• **Cost Analysis:** Track salary expenses across departments
+• **Decision Support:** Enable data-driven HR strategies
+• **Operational Efficiency:** Reduce manual HR reporting
+
 ---
 
 ### 📊 Dashboard Preview
